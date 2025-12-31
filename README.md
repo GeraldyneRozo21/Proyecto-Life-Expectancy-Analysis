@@ -13,7 +13,7 @@ Este proyecto explora los factores socioeconómicos y de salud asociados con la 
 - Matplotlib, Seaborn
 - Statsmodels
 
-##Estructura
+## Estructura
 Proyecto-Life-Expectancy-Analysis/
 │── data/
 │   └── Life Expectancy Data.csv
