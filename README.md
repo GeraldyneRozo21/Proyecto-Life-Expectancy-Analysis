@@ -14,16 +14,8 @@ Este proyecto explora los factores socioeconómicos y de salud asociados con la 
 - Statsmodels
 
 ## Estructura
-Proyecto-Life-Expectancy-Analysis/
-│── data/
-│   └── Life Expectancy Data.csv
-│── notebooks/   (si usas notebooks)
-│   └── analysis.ipynb
-│── src/         (si tienes scripts modulares)
-│   └── analysis.py
-├── README.md
-├── requirements.txt
-└── .gitignore
+<img width="387" height="251" alt="image" src="https://github.com/user-attachments/assets/2bb443c4-1cdb-4891-89a4-27a55ddec295" />
+
 
 ## Hallazgos Clave
 La educación, la composición del ingreso y las tasas de mortalidad están fuertemente asociadas con la esperanza de vida.
