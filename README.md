@@ -13,6 +13,18 @@ Este proyecto explora los factores socioeconómicos y de salud asociados con la 
 - Matplotlib, Seaborn
 - Statsmodels
 
+##Estructura
+Proyecto-Life-Expectancy-Analysis/
+│── data/
+│   └── Life Expectancy Data.csv
+│── notebooks/   (si usas notebooks)
+│   └── analysis.ipynb
+│── src/         (si tienes scripts modulares)
+│   └── analysis.py
+├── README.md
+├── requirements.txt
+└── .gitignore
+
 ## Hallazgos Clave
 La educación, la composición del ingreso y las tasas de mortalidad están fuertemente asociadas con la esperanza de vida.
 
