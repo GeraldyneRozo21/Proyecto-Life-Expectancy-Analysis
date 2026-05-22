@@ -1,24 +1,24 @@
-# Proyecto-Análisis-De-Esperanza-De-Vida
-Este proyecto explora los factores socioeconómicos y de salud asociados con la esperanza de vida en diferentes países entre 2000 y 2015.
+# Life Expectancy Analysis Project
+This project explores the socioeconomic and health-related factors associated with life expectancy across different countries between 2000 and 2015.
 
-## Métodos
-- Limpieza y preprocesamiento de datos
-- Análisis Exploratorio de Datos (AED)
-- Análisis de correlación
-- Regresión lineal múltiple con pruebas diagnósticas
+## Methods
+-Data cleaning and preprocessing
+-Exploratory Data Analysis (EDA)
+-Correlation analysis
+-Multiple linear regression with diagnostic testing
 
-## Herramientas
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Statsmodels
+## Tools
+-Python
+-Pandas, NumPy
+-Matplotlib, Seaborn
+-Statsmodels
 
-## Estructura
+## Structure
 <img width="387" height="251" alt="image" src="https://github.com/user-attachments/assets/2bb443c4-1cdb-4891-89a4-27a55ddec295" />
 
 
-## Hallazgos Clave
-La educación, la composición del ingreso y las tasas de mortalidad están fuertemente asociadas con la esperanza de vida.
+## Key Findings
+Education, income composition, and mortality rates are strongly associated with life expectancy.
 
-## Autora
+## Author
 Geraldyne Rozo Arias
